@@ -186,3 +186,6 @@ function keyDown(event) {
 
 
 drawGame();
+
+//The end 
+console.log("Hello World"); 
